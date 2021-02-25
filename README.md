@@ -1,6 +1,6 @@
 # My resume website
 
-This github repo contains the source of my website. See [https://about.costiui.ml/](https://about.costiui.net/) for a live version.
+This github repo contains the source of my website. See [https://about.costiui.ml/](https://about.costiui.ml/) for a live version.
 
 ## About
 
